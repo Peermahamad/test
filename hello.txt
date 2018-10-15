@@ -4,3 +4,6 @@ Thanos
 Captain America
 Thor
 Hulk
+
+Tony Stark
+Spider Man
